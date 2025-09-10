@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 Ferns and Petals (FNP) is a leading gifting brand in India. The dataset contains order details such as **products, customers, order dates, delivery dates, categories, occasions, and cities**.  
-The goal was to build an **interactive dashboard** that uncovers key insights into **sales performance, product demand, and customer spending behavior**.  
+The goal was to build an **interactive dashboard** that uncovers key insights into **sales performance, product demand, and customer spending behavior**.   
 
 ---
 
